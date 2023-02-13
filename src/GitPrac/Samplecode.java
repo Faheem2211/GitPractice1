@@ -5,9 +5,13 @@ public class Samplecode {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a = 60;
-		int c =100;
+		int b =10;
 		
-		System.out.println(a*c);
+<<<<<<< HEAD
+		System.out.println(a*b);
+=======
+		System.out.println(a+c);
+>>>>>>> main
 	}
 
 }
