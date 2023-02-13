@@ -7,7 +7,11 @@ public class Samplecode {
 		int a = 60;
 		int b =10;
 		
+<<<<<<< HEAD
 		System.out.println(a*b);
+=======
+		System.out.println(a+c);
+>>>>>>> main
 	}
 
 }
